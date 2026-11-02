@@ -9,7 +9,7 @@ I'm an **Information Systems graduate from Gunadarma University**. I enjoy learn
 * 🧪 **API Development & Testing:** Postman, Request Validation, Error Handling
 * 🎨 **Front-End Development:** React, Vite, Tailwind CSS
 * 📊 **Data & Programming:** Python, Pandas, NumPy
-* 🛠️ **Tools:** Git, GitHub, Docker
+* 🛠️ **Tools:** Git, GitHub, vscode
 
 ### 🚀 Experience & Programs
 
