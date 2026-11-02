@@ -1,6 +1,6 @@
 # Hi, I'm Faris Maulana Saputra 👋
 
-I'm an **Information Systems graduate from Gunadarma University** with a strong interest in **Back-End Development**. I enjoy learning how web applications work behind the scenes and continuously developing my skills through hands-on projects.
+I'm an **Information Systems graduate from Gunadarma University**. I enjoy learning how web applications work behind the scenes and continuously developing my skills through hands-on projects.
 
 ### 💻 What I Work With
 
