@@ -1,27 +1,26 @@
 # Hi, I'm Faris Maulana Saputra 👋
 
-I'm an **Information Systems graduate from Gunadarma University** with an interest in **Data Analysis, Back-End Development, and Front-End Development**.
+I'm an **Information Systems graduate from Gunadarma University** with a strong interest in **Back-End Development**. I enjoy learning how web applications work behind the scenes and continuously developing my skills through hands-on projects.
 
-### 💻 What I Do
+### 💻 What I Work With
 
-* 📊 **Data Analysis** — Python, SQL, Pandas, NumPy, Excel
-* ⚙️ **Back-End Development** — Node.js, Express, RESTful API
-* 🎨 **Front-End Development** — React, Vite, TailwindCSS
-* 🗄️ **Database & Tools** — MySQL, Git, GitHub
+* ⚙️ **Back-End Development:** JavaScript, Node.js, Express.js, RESTful APIs
+* 🗄️ **Database:** PostgreSQL, MySQL, SQL
+* 🧪 **API Development & Testing:** Postman, Request Validation, Error Handling
+* 🎨 **Front-End Development:** React, Vite, Tailwind CSS
+* 📊 **Data & Programming:** Python, Pandas, NumPy
+* 🛠️ **Tools:** Git, GitHub, Docker
 
 ### 🚀 Experience & Programs
 
 * 🎓 **Laboratory Assistant & Instructor** — Information Systems Laboratory, Gunadarma University
-* 🤝 **ASAH led by Dicoding in association with Accenture** — React & Back End with AI, 2025–2026
-* ☁️ **AWS Cloud Computing** — Alibaba Cloud, 2024–2025
+* 🤝 **ASAH by Dicoding in Collaboration with Accenture** — React & Back-End with AI, 2025–2026
 
-### 📌 Featured Projects
 
-* **LearnCheck!** — React-based automated formative assessment integrated with the Dicoding LMS
-* **Outpatient Visit Forecasting System** — Time-series forecasting application for outpatient visits
-* **OpenMusic API** — RESTful API built with Node.js and Express
-* **Discussion Forum App** — Responsive discussion forum built with React
+### 🌱 Currently Learning
+
+I am continuously improving my backend development skills, particularly in API development, database management, and building reliable web applications.
 
 ### 📫 Let's Connect
 
-If you'd like to connect or discuss technology, feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/farisms/).
+Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/farisms/).
